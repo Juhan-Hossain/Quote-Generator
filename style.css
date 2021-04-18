@@ -108,13 +108,38 @@ button:active {
   .quote-text {
     font-size: 2.5rem;
   }
+  button {
+    cursor: pointer;
+    font-size: 1.2rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    background: #333;
+    outline: none;
+    padding: 0.5rem 1.8rem;
+    box-shadow: 0 0.3rem rgba(121, 121, 121, 0.65);
+  }
 }
+
 /* Media query:Mobile or smaller */
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 500px) {
   .quote-container {
     margin: auto 8px;
   }
   .quote-text {
     font-size: 2rem;
+  }
+  button {
+    cursor: pointer;
+    font-size: 1.2rem;
+    height: 3.2rem;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    background: #333;
+    outline: none;
+    padding: 0.5rem 1.8rem;
+    box-shadow: 0 0.3rem rgba(121, 121, 121, 0.65);
   }
 }
