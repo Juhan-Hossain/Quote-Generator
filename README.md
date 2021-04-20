@@ -13,3 +13,7 @@ Tools: HTML5, CSS3, JavaScript.
 API:https://type.fit/api/quotes.
 For any query please email me : Juhanhossain@gmail.com
 
+
+
+<figure><embed src="https://wakatime.com/share/@207016f6-b1ec-43e0-a5ce-0bbedb5c7382/19b3369c-6be9-4d7e-895b-9c4853cc568b.svg"></embed></figure>
+
