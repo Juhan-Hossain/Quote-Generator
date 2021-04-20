@@ -1,6 +1,6 @@
 # Quote-Generator
 
-<img src="https://wakatime.com/badge/github/Juhan-Hossain/Quote-Generator.svg" class="center">
+<center><img src="https://wakatime.com/badge/github/Juhan-Hossain/Quote-Generator.svg"></center>
 
 
 
