@@ -1,9 +1,5 @@
 # Quote-Generator
 
-<center><img src="https://wakatime.com/badge/github/Juhan-Hossain/Quote-Generator.svg"></center>
-
-
-
 #Live-Demo :https://juhan-hossain.github.io/Quote-Generator/
 
 Hi,
